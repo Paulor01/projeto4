@@ -37,8 +37,17 @@ html::-webkit-scrollbar-thumb{
     border-radius: 5rem;
 }
 
+.background{
+    background-image: url(../Projeto4/img/Soldadohome.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
 
 body{
+    
     background: var(--bg);
 }
 
