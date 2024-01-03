@@ -34,7 +34,7 @@ html::-webkit-scrollbar-track{
 
 html::-webkit-scrollbar-thumb{
     background: #fff;
-    border-radius: 6rem;
+    border-radius: 5rem;
 }
 
 .background{
